@@ -1,7 +1,7 @@
 {
   "name": "vue-swiper-view",
   "description": "使用vue模块切换的swiper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "于广超 <yugc1989@gmail.com>",
   "license": "MIT",
   "private": false,
