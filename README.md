@@ -3,7 +3,6 @@
 >使用vue模块切换的swiper<br>
 >本组件是使用同事开发的react-swipe-view转到vue的组件,因为项目需要所以自己做了转换<br>
 >具体地址是:https://github.com/legeneek/react-swipe-view<br>
->欢迎给他个start-.-!
 
 ## install
 ```
